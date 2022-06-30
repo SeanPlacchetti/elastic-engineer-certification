@@ -68,14 +68,15 @@ Here is a link to the documentation for that version: https://www.elastic.co/gui
 ## Cluster Management
 
 - Diagnose shard issues and repair a cluster's health
-  - 
+  - [Red or Yellow Cluster Status](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/fix-common-cluster-issues.html#fix-red-yellow-cluster-status)
 - Backup and restore a cluster and/or specific indices
-  - 
+  - [Snapshot and Restore](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/snapshot-restore.html)
 - Configure a snapshot to be searchable
-  - 
+  - [How Searchable Snapshots Work](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/searchable-snapshots.html#how-searchable-snapshots-work)
+  - [Mount Snapshot API](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/searchable-snapshots-api-mount-snapshot.html)
 - Configure a cluster for cross-cluster search
-  - 
+  - [Cross-cluster Search](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/modules-cross-cluster-search.html)
 - Implement cross-cluster replication
-  - 
+  - [Cross-cluster Replication](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/xpack-ccr.html)
 - Define role-based access control using Elasticsearch Security
-  - 
+  - [Authorization](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/authorization.html)
