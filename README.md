@@ -52,17 +52,18 @@ Here is a link to the documentation for that version: https://www.elastic.co/gui
 ## Data Processing
 
 - Define a mapping that satisfies a given set of requirements
-  - 
+  - [Mapping](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/mapping.html)
 - Define and use a custom analyzer that satisfies a given set of requirements
-  - 
+  - [Custom Analyzer](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/analysis-custom-analyzer.html)
 - Define and use multi-fields with different data types and/or analyzers
-  - 
+  - [Multi-fields](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/multi-fields.html)
 - Use the Reindex API and Update By Query API to reindex and/or update documents
-  - 
+  - [Reindex API](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/docs-reindex.html)
+  - [Update By Query API](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/docs-update-by-query.html)
 - Define and use an ingest pipeline that satisfies a given set of requirements, including the use of Painless to modify documents
-  - 
+  - [Ingest](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/ingest.html)
 - Configure an index so that it properly maintains the relationships of nested arrays of objects
-  - 
+  - [Nested Field Type](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/nested.html)
 
 ## Cluster Management
 
