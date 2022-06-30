@@ -21,19 +21,20 @@ Here is a link to the documentation for that version: https://www.elastic.co/gui
 ## Searching Data
 
 - Write and execute a search query for terms and/or phrases in one or more fields of an index
-  - 
+  - [Search Your Data](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/search-your-data.html)
 - Write and execute a search query that is a Boolean combination of multiple queries and filters
-  - 
+  - [Boolean Compound Query](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/query-dsl-bool-query.html)
 - Write an asynchronous search
-  - 
+  - [Async Search](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/async-search.html)
 - Write and execute metric and bucket aggregations
-  - 
+  - [Metric Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/search-aggregations-metrics.html)
+  - [Bucket Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/search-aggregations-bucket.html)
 - Write and execute aggregations that contain sub-aggregations
-  - 
+  - [Pipeline Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/search-aggregations-pipeline.html)
 - Write and execute a query that searches across multiple clusters
-  - 
+  - [Cross-cluster Search](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/modules-cross-cluster-search.html)
 - Write and execute a search that utilizes a runtime field
-  - 
+  - [Runtime Search Request](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/runtime-search-request.html)
 
 ## Developing Search Applications
 
