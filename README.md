@@ -39,15 +39,15 @@ Here is a link to the documentation for that version: https://www.elastic.co/gui
 ## Developing Search Applications
 
 - Highlight the search terms in the response of a query
-  - 
+  - [Highlighting](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/highlighting.html)
 - Sort the results of a query by a given set of requirements
-  - 
+  - [Sort Search Results](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/sort-search-results.html)
 - Implement pagination of the results of a search query
-  - 
+  - [Paginate Search Results](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/paginate-search-results.html)
 - Define and use index aliases
-  - 
+  - [Add Index Alias](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/indices-add-alias.html)
 - Define and use a search template
-  - 
+  - [Search Templates](https://www.elastic.co/guide/en/elasticsearch/reference/7.13/search-template.html)
 
 ## Data Processing
 
